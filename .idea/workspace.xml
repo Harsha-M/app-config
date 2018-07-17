@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7815fe2a-be8a-4681-9600-250cf8ad1ddf" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/greeting-config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/greeting-config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greeting-config-qa.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,11 +23,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="greeting-config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="greeting-config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/greeting-config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
               <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="greeting-config-qa.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/greeting-config-qa.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -46,6 +56,7 @@
       <list>
         <option value="$PROJECT_DIR$/hello-world.yml" />
         <option value="$PROJECT_DIR$/greeting-config.yml" />
+        <option value="$PROJECT_DIR$/greeting-config-qa.yml" />
       </list>
     </option>
   </component>
@@ -166,12 +177,12 @@
       <option name="presentableId" value="Default" />
       <updated>1531851277910</updated>
       <workItem from="1531851279142" duration="313000" />
-      <workItem from="1531852246600" duration="887000" />
+      <workItem from="1531852246600" duration="1483000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1200000" />
+    <option name="totallyTimeSpent" value="1796000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="804" extended-state="0" />
@@ -234,6 +245,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/greeting-config-qa.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
